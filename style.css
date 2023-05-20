@@ -1,0 +1,359 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #0f0024;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 25px;
+    color: white;
+}
+
+.div1{
+    float:left;
+    display: inline;
+    top: 120px;
+    left: 50px;
+    width: 320px;
+    height: 449px;  
+    padding: 5px;
+    border-radius: 7px;
+    background-color: #a194af;
+    align-self: center;   
+    margin-left: 17px;
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.kolnapis{
+	color: #a194af;
+}
+
+.div2{
+    background-color: #211242;
+    display: inline-block;
+    margin-left: 50px;
+    width: 1350px;
+    margin-top: 20px;
+    border-radius: 15px;
+    font-size: 25px;
+    
+}
+
+.div3{
+    background-color: #211242;
+    
+    margin-left: 50px;
+    width: 1690px;
+    margin-top: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+    
+}
+
+.hr1 {
+	border-top: 3px solid #6939d6;
+  }
+
+  .div4{
+    
+    top: 120px;
+    width: 320px;
+    height: 449px;  
+    padding: 5px;
+    border-radius: 7px;
+    background-color: #a194af;
+    margin-top: 30px;
+    float: right;
+    margin-right: 17px;
+}
+
+
+.div5{
+    background-color: #211242;
+    display: inline;
+    margin-left: 50px;
+    width: 1450px;
+    margin-top: 20px;
+    border-radius: 15px;
+    
+    
+}
+
+.podpis2{
+    
+    font-weight: bold;
+    
+    text-align: center;
+}
+
+.podpis1{
+    font-weight: bold;
+}
+
+.div6{
+    background-color: #211242;
+    display: inline-block;
+    width: 1350px;
+    border-radius: 15px;
+    margin-left: 130px;
+    margin-top: 30px;
+    
+}
+.div7{
+    background-color: #211242;
+    width: 1600px;
+    border-radius: 15px;
+    margin-left: 130px;
+    margin-top: 30px;
+    
+    
+}
+
+.div8{
+    width:862px;
+    float:left;
+    display: inline;
+    top: 120px;
+    left: 50px;
+    
+      
+    padding: 5px;
+    border-radius: 7px;
+    background-color: #a194af;  
+    margin-left: 17px;
+}
+
+.div9{
+    background-color: #211242;
+    margin-left: 50px;
+    width: 1350px;
+    margin-top: 20px;
+    border-radius: 15px;
+    margin-left: 5px;
+    font-size: 27px;
+    
+}
+.div10{
+    background-color: #211242;
+    
+    width: 250px;
+    margin-top: 20px;
+    border-radius: 15px;
+    margin-right: 100px;
+    font-size: 25px;
+    float: right;
+    margin-top: 75px;
+   
+}
+.div11{
+    background-color: #211242;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    border-radius: 15px;
+    display: inline-block;
+    margin-left: 800px;
+}
+.div12{
+    background-color:#211242;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    border-radius: 15px;
+    display: inline-block;
+    }
+
+header{
+    background-color: #150230;
+}
+
+footer{
+    background-color: #150230;
+}
+
+
+
+a:link 
+{
+    color: #fff;
+}
+
+a:visited 
+{
+    color: #5722b9;
+}
+
+a:hover 
+{
+    color: #610cd1;
+}
+
+a:active 
+{    
+	color: #4b0683;
+}
+
+.container
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1000px;
+	text-align: center;
+	padding: 0;
+	margin-bottom: 25px;
+}
+
+.postcard
+{
+	display: inline-block;
+	width: 460px;
+	text-align: center;
+	padding: 5px;
+}
+
+.postcard p
+{
+	padding: 5px;
+	margin-top: 10px;
+}
+
+
+.photo1{
+    overflow: hidden;
+    width: 450px;
+    height: 250px;
+}
+.photo1 img
+{
+     transition: all .5s ease-in-out;
+}
+.photo1:hover img{
+	transform: scale(1.15)
+}
+
+
+
+.photo2{
+    overflow: hidden;
+    width: 450px;
+    height: 250px;
+}
+.photo2 img
+{
+     transition: all .5s ease-in-out;
+}
+.photo2:hover img{
+	transform: scale(1.15)
+}
+
+
+
+
+.photo3{
+    overflow: hidden;
+    width: 450px;
+    height: 250px;
+}
+.photo3 img
+{
+     transition: all .5s ease-in-out;
+}
+.photo3:hover img{
+	transform: scale(1.15)
+}
+
+
+
+.photo4{
+    overflow: hidden;
+    width: 450px;
+    height: 250px;
+}
+.photo4 img
+{
+     transition: all .5s ease-in-out;
+}
+.photo4:hover img{
+	transform: scale(1.15)
+}
+
+
+.photo5
+{
+	width: 450px;
+	height: 278px;
+	overflow: hidden;
+}
+.photo5 img{
+	transition: all .5s ease-in-out;
+}
+
+.photo5:hover img{
+	transform: scale(1.15)
+}
+
+
+.photo6{
+    overflow: hidden;
+    width: 450px;
+    height: 250px;
+}
+.photo6 img
+{
+     transition: all .5s ease-in-out;
+}
+.photo6:hover img{
+	transform: scale(1.15)
+}
+
+.photo7{
+    overflow: hidden;
+    width: 450px;
+    height: 250px;
+}
+.photo7 img
+{
+     transition: all .5s ease-in-out;
+}
+.photo7:hover img{
+	transform: scale(1.15)
+}
+
+
+.photo8{
+    overflow: hidden;
+    width: 450px;
+    height: 250px;
+}
+.photo8 img
+{
+     transition: all .5s ease-in-out;
+}
+.photo8:hover img{
+	transform: scale(1.15)
+}
+
+.photo9{
+    overflow: hidden;
+    width: 450px;
+    height: 250px;
+}
+.photo9 img
+{
+     transition: all .5s ease-in-out;
+}
+.photo9:hover img{
+	transform: scale(1.15)
+}
+
+.zrodla{
+    margin-left: 700px;
+    margin-top: 150px;
+    width: 500px;
+   
+    padding: 15px;
+    text-align: center;
+    background-color: #14022c;
+}
